@@ -6,6 +6,9 @@
 def added_function(name):
     print(f'Hello, {name}')
 
+def added_anotherfunction(name):
+    print(f'Hello, {name}')
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
